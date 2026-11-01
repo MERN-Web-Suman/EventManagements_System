@@ -1,0 +1,18 @@
+# Backend
+backend/node_modules/
+backend/.env
+backend/uploads/
+backend/streaming/.env
+backend/streaming/node_modules/
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# General
+.DS_Store
+*.log
+npm-debug.log*
+.idea/
+.vscode/
